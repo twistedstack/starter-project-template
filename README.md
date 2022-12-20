@@ -7,7 +7,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
+![enter image description here](https://img.shields.io/badge/%3CTWISTED%3E-%3CSTACK%3E-%3CBLUE%3E)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,8 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-![enter image description here](https://img.shields.io/badge/%3CTWISTED%3E-%3CSTACK%3E-%3CBLUE%3E)
-<br />
+
+[![Twisted][twisted]](https://github.com/twistedstack/starter-project-template)
 
   [![Logo][logo]](https://github.com/twistedstack/starter-project-template)
 
@@ -241,6 +241,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [logo]: images/logo.png
+[twisted]: https://img.shields.io/badge/%3CTWISTED%3E-%3CSTACK%3E-%3CBLUE%3E
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
