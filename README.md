@@ -7,13 +7,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![enter image description here](https://img.shields.io/badge/%3CTWISTED%3E-%3CSTACK%3E-%3CBLUE%3E)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -199,7 +198,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+kellylynnrock@gmail.com
 
 Project Link: [https://github.com/twistedstack/starter-project-template](https://github.com/twistedstack/starter-project-template)
 
