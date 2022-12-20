@@ -17,7 +17,7 @@
 <br />
 <div align="center">
 
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  [![Logo][logo]](https://github.com/twistedstack/starter-project-template)
 
   <h3 align="center">README</h3>
 
@@ -237,6 +237,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[logo]: images/logo.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
