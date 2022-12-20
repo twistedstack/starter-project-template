@@ -7,7 +7,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![enter image description here](https://img.shields.io/badge/%3CTWISTED%3E-%3CSTACK%3E-%3CBLUE%3E)
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,6 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+![enter image description here](https://img.shields.io/badge/%3CTWISTED%3E-%3CSTACK%3E-%3CBLUE%3E)
+<br />
 
   [![Logo][logo]](https://github.com/twistedstack/starter-project-template)
 
